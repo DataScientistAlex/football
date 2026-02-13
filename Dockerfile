@@ -1,4 +1,4 @@
-# 2. Fix Docker
+# 2. Fix Docker und Feature docker file
 #fix einfügen
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
